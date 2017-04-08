@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codandgo.Plugins", "codandgo.Plugins.csproj", "{A18CF33B-91D1-CD1E-E8E5-E23227E768B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codandgo", "codandgo.csproj", "{9DC8CD5B-E76F-DBB1-F69A-D5DA2C0835C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codandgo.Editor.Plugins", "codandgo.Editor.Plugins.csproj", "{3904E5F5-FD0B-8070-C91D-168EEE5FD374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18CF33B-91D1-CD1E-E8E5-E23227E768B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18CF33B-91D1-CD1E-E8E5-E23227E768B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18CF33B-91D1-CD1E-E8E5-E23227E768B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18CF33B-91D1-CD1E-E8E5-E23227E768B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC8CD5B-E76F-DBB1-F69A-D5DA2C0835C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC8CD5B-E76F-DBB1-F69A-D5DA2C0835C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC8CD5B-E76F-DBB1-F69A-D5DA2C0835C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC8CD5B-E76F-DBB1-F69A-D5DA2C0835C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3904E5F5-FD0B-8070-C91D-168EEE5FD374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3904E5F5-FD0B-8070-C91D-168EEE5FD374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3904E5F5-FD0B-8070-C91D-168EEE5FD374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3904E5F5-FD0B-8070-C91D-168EEE5FD374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
